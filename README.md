@@ -1,14 +1,12 @@
 # Cosmoport
-### Выполненное задание для участия в онлайн стажировке.
-#### Требования:
-Нужно дописать приложение, которое ведет учет космических кораблей в
-далеком будущем (в 3019 году). Должны быть реализованы следующие
-возможности:
-1. получать список всех существующих кораблей;
-2. создавать новый корабль;
-3. редактировать характеристики существующего корабля;
-4. удалять корабль;
-5. получать корабль по id;
-6. получать отфильтрованный список кораблей в соответствии с
-переданными фильтрами;
-7. получать количество кораблей, которые соответствуют фильтрам.
+### Completed assignment for participation in the online internship.
+#### Requirements:
+Finish an application that keeps list of spaceships in the distant future (in 3019). The following features should be implemented:
+
+1. get a list of all existing ships;
+2. create a new ship;
+3. edit the characteristics of an existing ship;
+4. remove the ship;
+5. receive a ship by id;
+6. receive a filtered list of ships in accordance with the passed filters;
+7. get the number of ships that match the filters.
